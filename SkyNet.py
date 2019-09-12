@@ -1,0 +1,7 @@
+print ('===========================Welcome To SkyNet===========================')
+nome = input ('Qual o Seu Nome ? ')
+print ('Olá,', nome,', Prazer em te Conhecer! Poderia Me Fornecer Algumas Informações ?')
+dia = input ('Qual a Data de Hoje ? ')
+mes = input ('Estamos Em Qual Mês ? ')
+ano = input ('Ano do Juízo Final ? ')
+hora = input ('Hora do Juízo Final ? ')
